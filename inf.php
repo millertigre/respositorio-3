@@ -5,5 +5,7 @@
 
  if($i){
  	echo "muy bien";
+ }else{
+ 	echo "muy mal";
  }
 ?>
