@@ -8,4 +8,7 @@
  }else{
  	echo "muy mal";
  }
-?>
+
+ $miarchivo = "";
+
+ ?>
