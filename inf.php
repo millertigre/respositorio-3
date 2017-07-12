@@ -11,4 +11,6 @@
 
  $miarchivo = "";
 
+ $array = array();
+
  ?>
